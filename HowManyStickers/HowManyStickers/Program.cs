@@ -21,10 +21,8 @@ namespace HowManyStickers
         // return result;
         static void Main(string[] args)
         {
-            Console.Write("test");
-            Console.Write(".");
             Console.Beep();
-
+            Console.ReadKey();
         }
     }
 }
