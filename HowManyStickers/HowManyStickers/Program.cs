@@ -21,6 +21,7 @@ namespace HowManyStickers
         // return result;
         static void Main(string[] args)
         {
+            Console.WriteLine("test");
         }
     }
 }
