@@ -24,6 +24,7 @@ namespace HowManyStickers
             Console.Write("test");
             Console.Write(".");
             Console.Beep();
+
         }
     }
 }
